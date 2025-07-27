@@ -1,16 +1,11 @@
-# 🔐 Python Algorithms:
+# 🔐 Python Algorithms: Cipher & Luhn Algorithm
 
 This repository contains Python implementations of:
 
 - Classical Ciphers like the Caesar Cipher and Vigenère Cipher
 - Luhn Algorithm used for validating credit card numbers and similar ID formats
-
-## 🚀 Features
-
-- 🔡 Vigenère Cipher – Encrypts/decrypts text using a keyword
-- 🔁 Caesar Cipher – Simple shift cipher
-- ✅ Luhn Algorithm – Validates number sequences using checksum logic
 - 🐍 Pascal/camelCase to snake_case Converter – Converts variable names to Python style
+
 
 ## 📂 Files
 
